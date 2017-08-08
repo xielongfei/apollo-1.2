@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Apollo Client
+Implementation-Version: 0.8.0
+Built-By: LongfeiXie
+Specification-Vendor: Ctrip, Inc.
+Specification-Title: Apollo Client
+Implementation-Vendor-Id: com.ctrip.framework.apollo
+Build-Jdk: 1.8.0_131
+Specification-Version: 0.8
+Implementation-URL: https://ctripcorp.github.io/apollo/apollo-client
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Ctrip, Inc.
+

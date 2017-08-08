@@ -1,0 +1,14 @@
+D:\PROJECT\RedisDemo\apollo-master\apollo-adminservice\src\test\java\com\ctrip\framework\apollo\adminservice\AllTests.java
+D:\PROJECT\RedisDemo\apollo-master\apollo-adminservice\src\test\java\com\ctrip\framework\apollo\adminservice\controller\AppControllerTest.java
+D:\PROJECT\RedisDemo\apollo-master\apollo-adminservice\src\test\java\com\ctrip\framework\apollo\LocalAdminServiceApplication.java
+D:\PROJECT\RedisDemo\apollo-master\apollo-adminservice\src\test\java\com\ctrip\framework\apollo\adminservice\controller\ControllerExceptionTest.java
+D:\PROJECT\RedisDemo\apollo-master\apollo-adminservice\src\test\java\com\ctrip\framework\apollo\adminservice\aop\NamespaceUnlockAspectTest.java
+D:\PROJECT\RedisDemo\apollo-master\apollo-adminservice\src\test\java\com\ctrip\framework\apollo\adminservice\controller\ReleaseControllerTest.java
+D:\PROJECT\RedisDemo\apollo-master\apollo-adminservice\src\test\java\com\ctrip\framework\apollo\adminservice\controller\ControllerIntegrationExceptionTest.java
+D:\PROJECT\RedisDemo\apollo-master\apollo-adminservice\src\test\java\com\ctrip\framework\apollo\adminservice\controller\AbstractControllerTest.java
+D:\PROJECT\RedisDemo\apollo-master\apollo-adminservice\src\test\java\com\ctrip\framework\apollo\adminservice\controller\TestWebSecurityConfig.java
+D:\PROJECT\RedisDemo\apollo-master\apollo-adminservice\src\test\java\com\ctrip\framework\apollo\adminservice\aop\NamespaceLockTest.java
+D:\PROJECT\RedisDemo\apollo-master\apollo-adminservice\src\test\java\com\ctrip\framework\apollo\adminservice\controller\InstanceConfigControllerTest.java
+D:\PROJECT\RedisDemo\apollo-master\apollo-adminservice\src\test\java\com\ctrip\framework\apollo\adminservice\controller\AppNamespaceControllerTest.java
+D:\PROJECT\RedisDemo\apollo-master\apollo-adminservice\src\test\java\com\ctrip\framework\apollo\AdminServiceTestConfiguration.java
+D:\PROJECT\RedisDemo\apollo-master\apollo-adminservice\src\test\java\com\ctrip\framework\apollo\adminservice\controller\ItemSetControllerTest.java

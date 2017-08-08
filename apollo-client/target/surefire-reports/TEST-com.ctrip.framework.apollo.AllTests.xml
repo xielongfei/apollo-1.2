@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.ctrip.framework.apollo.AllTests" time="29.646" tests="142" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="D:\Program Files\Java\jdk_1.8.0\jre\bin"/>
+    <property name="java.vm.version" value="25.131-b11"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\PROJECT\RedisDemo\apollo-master"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\PROJECT\RedisDemo\apollo-master"/>
+    <property name="java.runtime.version" value="1.8.0_131-b11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="D:\Program Files\Java\jdk_1.8.0\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\LONGFE~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\PROJECT\RedisDemo\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf8442283647163262114.tmp"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\Program Files\Java\jdk_1.8.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\Program Files\Java\jdk_1.8.0\jre\bin;D:/Program Files/Java/jre_1.8.0/bin/server;D:/Program Files/Java/jre_1.8.0/bin;D:/Program Files/Java/jre_1.8.0/lib/amd64;C:\Program Files\Docker\Docker\Resources\bin;D:\Program Files\Software\maven\apache-maven-3.5.0\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\Software\NodeJs\;D:\Program Files\Java\jdk_1.8.0\bin;%JRE_HOME%\jre\bin;C:\Program Files\Git\cmd;C:\Users\longfeixie\AppData\Local\Microsoft\WindowsApps;C:\Users\longfeixie\AppData\Roaming\npm;C:\Users\longfeixie\Desktop;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="org.slf4j.simpleLogger.levelInBrackets" value="true"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\longfeixie"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="LongfeiXie"/>
+    <property name="java.class.path" value="/C:/Users/longfeixie/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.7.0.20160603-1931/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="D:\Program Files\Java\jdk_1.8.0\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -s D:\Program Files\Software\maven\apache-maven-3.5.0\conf\settings.xml install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_131"/>
+    <property name="java.ext.dirs" value="D:\Program Files\Java\jdk_1.8.0\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="D:\Program Files\Java\jdk_1.8.0\jre\lib\resources.jar;D:\Program Files\Java\jdk_1.8.0\jre\lib\rt.jar;D:\Program Files\Java\jdk_1.8.0\jre\lib\sunrsasign.jar;D:\Program Files\Java\jdk_1.8.0\jre\lib\jsse.jar;D:\Program Files\Java\jdk_1.8.0\jre\lib\jce.jar;D:\Program Files\Java\jdk_1.8.0\jre\lib\charsets.jar;D:\Program Files\Java\jdk_1.8.0\jre\lib\jfr.jar;D:\Program Files\Java\jdk_1.8.0\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\PROJECT\RedisDemo\apollo-master\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="org.slf4j.simpleLogger.showThreadName" value="false"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="testMockConfigFactory" classname="com.ctrip.framework.apollo.ConfigServiceTest" time="0.467"/>
+  <testcase name="testHackConfigFactory" classname="com.ctrip.framework.apollo.ConfigServiceTest" time="0.005"/>
+  <testcase name="testHackConfig" classname="com.ctrip.framework.apollo.ConfigServiceTest" time="0.004"/>
+  <testcase name="testMockConfigFactoryForConfigFile" classname="com.ctrip.framework.apollo.ConfigServiceTest" time="0.004"/>
+  <testcase name="testGetFactory" classname="com.ctrip.framework.apollo.spi.DefaultConfigRegistryTest" time="0.001"/>
+  <testcase name="testGetFactoryWithNamespaceUnregistered" classname="com.ctrip.framework.apollo.spi.DefaultConfigRegistryTest" time="0"/>
+  <testcase name="testGetFactoryFromRegistry" classname="com.ctrip.framework.apollo.spi.DefaultConfigFactoryManagerTest" time="0"/>
+  <testcase name="testGetFactoryFromNamespace" classname="com.ctrip.framework.apollo.spi.DefaultConfigFactoryManagerTest" time="0.001"/>
+  <testcase name="testGetFactoryFromNamespaceMultipleTimes" classname="com.ctrip.framework.apollo.spi.DefaultConfigFactoryManagerTest" time="0"/>
+  <testcase name="testGetFactoryFromDefault" classname="com.ctrip.framework.apollo.spi.DefaultConfigFactoryManagerTest" time="0.001"/>
+  <testcase name="testGetConfigFile" classname="com.ctrip.framework.apollo.internals.DefaultConfigManagerTest" time="0.077"/>
+  <testcase name="testGetConfigMultipleTimesWithSameNamespace" classname="com.ctrip.framework.apollo.internals.DefaultConfigManagerTest" time="0.001"/>
+  <testcase name="testGetConfig" classname="com.ctrip.framework.apollo.internals.DefaultConfigManagerTest" time="0"/>
+  <testcase name="testGetConfigFileMultipleTimesWithSameNamespace" classname="com.ctrip.framework.apollo.internals.DefaultConfigManagerTest" time="0.001"/>
+  <testcase name="testGetLongProperty" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.013"/>
+  <testcase name="testGetIntProperty" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.002"/>
+  <testcase name="testGetByteProperty" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.001"/>
+  <testcase name="testOnRepositoryChange" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.013"/>
+  <testcase name="testGetIntPropertyMultipleTimesWithCache" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.014"/>
+  <testcase name="testGetIntPropertyMultipleTimesWithShortExpireTime" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.053"/>
+  <testcase name="testGetFloatProperty" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.003"/>
+  <testcase name="testGetDoubleProperty" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.001"/>
+  <testcase name="testGetEnumProperty" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.002"/>
+  <testcase name="testGetArrayProperty" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.002"/>
+  <testcase name="testGetShortProperty" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.001"/>
+  <testcase name="testGetArrayPropertyMultipleTimesWithCacheAndValueChanges" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.001"/>
+  <testcase name="testGetDatePropertyWithFormat" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.006"/>
+  <testcase name="testGetIntPropertyMultipleTimesWithPropertyChanges" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.001"/>
+  <testcase name="testGetDatePropertyWithNoFormat" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.001"/>
+  <testcase name="testGetPropertyWithAllPropertyHierarchy" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.016"/>
+  <testcase name="testGetBooleanProperty" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.001"/>
+  <testcase name="testGetArrayPropertyMultipleTimesWithCache" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.001"/>
+  <testcase name="testGetDurationProperty" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.001"/>
+  <testcase name="testGetIntPropertyMultipleTimesWithSmallCache" classname="com.ctrip.framework.apollo.internals.DefaultConfigTest" time="0.003"/>
+  <testcase name="testLoadConfigWithNoLocalFile" classname="com.ctrip.framework.apollo.internals.LocalFileConfigRepositoryTest" time="0.011"/>
+  <testcase name="testOnRepositoryChange" classname="com.ctrip.framework.apollo.internals.LocalFileConfigRepositoryTest" time="0.009"/>
+  <testcase name="testLoadConfigWithLocalFileAndFallbackRepo" classname="com.ctrip.framework.apollo.internals.LocalFileConfigRepositoryTest" time="0.006"/>
+  <testcase name="testLoadConfigWithNoLocalFileMultipleTimes" classname="com.ctrip.framework.apollo.internals.LocalFileConfigRepositoryTest" time="0.003"/>
+  <testcase name="testLoadConfigWithLocalFile" classname="com.ctrip.framework.apollo.internals.LocalFileConfigRepositoryTest" time="0.006"/>
+  <testcase name="testAssembleQueryConfigUrl" classname="com.ctrip.framework.apollo.internals.RemoteConfigRepositoryTest" time="4.616"/>
+  <testcase name="testLoadConfig" classname="com.ctrip.framework.apollo.internals.RemoteConfigRepositoryTest" time="0.002"/>
+  <testcase name="testGetRemoteConfigWithServerError" classname="com.ctrip.framework.apollo.internals.RemoteConfigRepositoryTest" time="0.045"/>
+  <testcase name="testLongPollingRefresh" classname="com.ctrip.framework.apollo.internals.RemoteConfigRepositoryTest" time="0.062"/>
+  <testcase name="testRepositoryChangeListener" classname="com.ctrip.framework.apollo.internals.RemoteConfigRepositoryTest" time="0.007"/>
+  <testcase name="testOnRepositoryChange" classname="com.ctrip.framework.apollo.internals.SimpleConfigTest" time="0.002"/>
+  <testcase name="testLoadConfigFromConfigRepositoryError" classname="com.ctrip.framework.apollo.internals.SimpleConfigTest" time="0.002"/>
+  <testcase name="testGetProperty" classname="com.ctrip.framework.apollo.internals.SimpleConfigTest" time="0"/>
+  <testcase name="testCreateLocalConfigRepositoryInLocalDev" classname="com.ctrip.framework.apollo.spi.DefaultConfigFactoryTest" time="0.025"/>
+  <testcase name="testCreate" classname="com.ctrip.framework.apollo.spi.DefaultConfigFactoryTest" time="0.005"/>
+  <testcase name="testCreateConfigFile" classname="com.ctrip.framework.apollo.spi.DefaultConfigFactoryTest" time="0.003"/>
+  <testcase name="testGetConfigWithNoLocalFileAndRemoteMetaServiceRetry" classname="com.ctrip.framework.apollo.integration.ConfigIntegrationTest" time="2.347"/>
+  <testcase name="testGetConfigWithLocalFileAndWithRemoteConfig" classname="com.ctrip.framework.apollo.integration.ConfigIntegrationTest" time="2.048"/>
+  <testcase name="testLongPollRefresh" classname="com.ctrip.framework.apollo.integration.ConfigIntegrationTest" time="2.146"/>
+  <testcase name="testRefreshConfig" classname="com.ctrip.framework.apollo.integration.ConfigIntegrationTest" time="2.549"/>
+  <testcase name="testGetConfigWithLocalFileAndRemoteConfigError" classname="com.ctrip.framework.apollo.integration.ConfigIntegrationTest" time="2.125"/>
+  <testcase name="testGetConfigWithNoLocalFileAndRemoteConfigServiceRetry" classname="com.ctrip.framework.apollo.integration.ConfigIntegrationTest" time="2.056"/>
+  <testcase name="testGetConfigWithNoLocalFileAndRemoteConfigError" classname="com.ctrip.framework.apollo.integration.ConfigIntegrationTest" time="2.138"/>
+  <testcase name="testLongPollRefreshWithMultipleNamespacesAndMultipleNamespaceNotified" classname="com.ctrip.framework.apollo.integration.ConfigIntegrationTest" time="2.318"/>
+  <testcase name="testLongPollRefreshWithMultipleNamespacesAndOnlyOneNamespaceNotified" classname="com.ctrip.framework.apollo.integration.ConfigIntegrationTest" time="3.064"/>
+  <testcase name="testGetConfigWithNoLocalFileButWithRemoteConfig" classname="com.ctrip.framework.apollo.integration.ConfigIntegrationTest" time="2.053"/>
+  <testcase name="testGetDetailMessageWithCauseMessageNull" classname="com.ctrip.framework.apollo.util.ExceptionUtilTest" time="0"/>
+  <testcase name="testGetDetailMessageWithNoCause" classname="com.ctrip.framework.apollo.util.ExceptionUtilTest" time="0"/>
+  <testcase name="testGetDetailMessageWithNullMessage" classname="com.ctrip.framework.apollo.util.ExceptionUtilTest" time="0"/>
+  <testcase name="testGetDetailMessageWithCauses" classname="com.ctrip.framework.apollo.util.ExceptionUtilTest" time="0"/>
+  <testcase name="testOnRepositoryChange" classname="com.ctrip.framework.apollo.internals.XmlConfigFileTest" time="0.002"/>
+  <testcase name="testWhenHasContent" classname="com.ctrip.framework.apollo.internals.XmlConfigFileTest" time="0"/>
+  <testcase name="testWhenHasNoContent" classname="com.ctrip.framework.apollo.internals.XmlConfigFileTest" time="0.001"/>
+  <testcase name="testWhenConfigRepositoryHasError" classname="com.ctrip.framework.apollo.internals.XmlConfigFileTest" time="0.001"/>
+  <testcase name="testOnRepositoryChangeWithContentAdded" classname="com.ctrip.framework.apollo.internals.XmlConfigFileTest" time="0.001"/>
+  <testcase name="testWhenConfigRepositoryHasErrorAndThenRecovered" classname="com.ctrip.framework.apollo.internals.XmlConfigFileTest" time="0.001"/>
+  <testcase name="testOnRepositoryChangeWithContentDeleted" classname="com.ctrip.framework.apollo.internals.XmlConfigFileTest" time="0.001"/>
+  <testcase name="testOnRepositoryChange" classname="com.ctrip.framework.apollo.internals.PropertiesConfigFileTest" time="0.002"/>
+  <testcase name="testWhenHasContent" classname="com.ctrip.framework.apollo.internals.PropertiesConfigFileTest" time="0"/>
+  <testcase name="testWhenHasNoContent" classname="com.ctrip.framework.apollo.internals.PropertiesConfigFileTest" time="0"/>
+  <testcase name="testWhenConfigRepositoryHasError" classname="com.ctrip.framework.apollo.internals.PropertiesConfigFileTest" time="0"/>
+  <testcase name="testWhenConfigRepositoryHasErrorAndThenRecovered" classname="com.ctrip.framework.apollo.internals.PropertiesConfigFileTest" time="0.001"/>
+  <testcase name="testAssembleLongPollRefreshUrlWithMultipleNamespaces" classname="com.ctrip.framework.apollo.internals.RemoteConfigLongPollServiceTest" time="0.001"/>
+  <testcase name="testSubmitLongPollNamespaceWith304Response" classname="com.ctrip.framework.apollo.internals.RemoteConfigLongPollServiceTest" time="0.055"/>
+  <testcase name="testSubmitLongPollMultipleNamespacesWithMultipleNotificationsReturned" classname="com.ctrip.framework.apollo.internals.RemoteConfigLongPollServiceTest" time="0.055"/>
+  <testcase name="testSubmitLongPollNamespaceWith200Response" classname="com.ctrip.framework.apollo.internals.RemoteConfigLongPollServiceTest" time="0.053"/>
+  <testcase name="testAssembleLongPollRefreshUrl" classname="com.ctrip.framework.apollo.internals.RemoteConfigLongPollServiceTest" time="0"/>
+  <testcase name="testSubmitLongPollMultipleNamespaces" classname="com.ctrip.framework.apollo.internals.RemoteConfigLongPollServiceTest" time="0.106"/>
+  <testcase name="testParseWithFormatAndLocale" classname="com.ctrip.framework.apollo.util.parser.DateParserTest" time="0.002"/>
+  <testcase name="testParseMediumFormat" classname="com.ctrip.framework.apollo.util.parser.DateParserTest" time="0"/>
+  <testcase name="testParseError" classname="com.ctrip.framework.apollo.util.parser.DateParserTest" time="0"/>
+  <testcase name="testParseShortFormat" classname="com.ctrip.framework.apollo.util.parser.DateParserTest" time="0.001"/>
+  <testcase name="testParseLongFormat" classname="com.ctrip.framework.apollo.util.parser.DateParserTest" time="0"/>
+  <testcase name="testParseWithNoFormat" classname="com.ctrip.framework.apollo.util.parser.DateParserTest" time="0.001"/>
+  <testcase name="testParseFullText" classname="com.ctrip.framework.apollo.util.parser.DurationParserTest" time="0"/>
+  <testcase name="testParseHours" classname="com.ctrip.framework.apollo.util.parser.DurationParserTest" time="0"/>
+  <testcase name="testParseDays" classname="com.ctrip.framework.apollo.util.parser.DurationParserTest" time="0"/>
+  <testcase name="testParseMinutes" classname="com.ctrip.framework.apollo.util.parser.DurationParserTest" time="0"/>
+  <testcase name="testParseSeconds" classname="com.ctrip.framework.apollo.util.parser.DurationParserTest" time="0"/>
+  <testcase name="testParseFullTextWithLowerCase" classname="com.ctrip.framework.apollo.util.parser.DurationParserTest" time="0"/>
+  <testcase name="testParseMilliSeconds" classname="com.ctrip.framework.apollo.util.parser.DurationParserTest" time="0"/>
+  <testcase name="testParseException" classname="com.ctrip.framework.apollo.util.parser.DurationParserTest" time="0.001"/>
+  <testcase name="testParseMilliSecondsWithNoSuffix" classname="com.ctrip.framework.apollo.util.parser.DurationParserTest" time="0"/>
+  <testcase name="testParseFullTextWithNoMS" classname="com.ctrip.framework.apollo.util.parser.DurationParserTest" time="0"/>
+  <testcase name="testOnRepositoryChange" classname="com.ctrip.framework.apollo.internals.JsonConfigFileTest" time="0"/>
+  <testcase name="testWhenHasContent" classname="com.ctrip.framework.apollo.internals.JsonConfigFileTest" time="0.001"/>
+  <testcase name="testWhenHasNoContent" classname="com.ctrip.framework.apollo.internals.JsonConfigFileTest" time="0"/>
+  <testcase name="testWhenConfigRepositoryHasError" classname="com.ctrip.framework.apollo.internals.JsonConfigFileTest" time="0"/>
+  <testcase name="testWhenConfigRepositoryHasErrorAndThenRecovered" classname="com.ctrip.framework.apollo.internals.JsonConfigFileTest" time="0.001"/>
+  <testcase name="testMultiplePropertySourcesWithSameProperties" classname="com.ctrip.framework.apollo.spring.XmlConfigPlaceholderTest" time="0.227"/>
+  <testcase name="testPropertySourceWithNoConfig" classname="com.ctrip.framework.apollo.spring.XmlConfigPlaceholderTest" time="0.042"/>
+  <testcase name="testMultiplePropertySources" classname="com.ctrip.framework.apollo.spring.XmlConfigPlaceholderTest" time="0.021"/>
+  <testcase name="testWithInvalidWeight" classname="com.ctrip.framework.apollo.spring.XmlConfigPlaceholderTest" time="0.021"/>
+  <testcase name="testApplicationPropertySource" classname="com.ctrip.framework.apollo.spring.XmlConfigPlaceholderTest" time="0.015"/>
+  <testcase name="testMultiplePropertySourcesWithSamePropertiesWithWeight" classname="com.ctrip.framework.apollo.spring.XmlConfigPlaceholderTest" time="0.022"/>
+  <testcase name="testPropertySourceWithNoNamespace" classname="com.ctrip.framework.apollo.spring.XmlConfigPlaceholderTest" time="0.026"/>
+  <testcase name="testMultiplePropertySourcesWithSameProperties" classname="com.ctrip.framework.apollo.spring.JavaConfigPlaceholderTest" time="0.159"/>
+  <testcase name="testPropertySourceWithNoConfig" classname="com.ctrip.framework.apollo.spring.JavaConfigPlaceholderTest" time="0.023"/>
+  <testcase name="testApplicationPropertySourceWithValueInjectedAsParameter" classname="com.ctrip.framework.apollo.spring.JavaConfigPlaceholderTest" time="0.024"/>
+  <testcase name="testMultiplePropertySources" classname="com.ctrip.framework.apollo.spring.JavaConfigPlaceholderTest" time="0.012"/>
+  <testcase name="testApplicationPropertySource" classname="com.ctrip.framework.apollo.spring.JavaConfigPlaceholderTest" time="0.027"/>
+  <testcase name="testMultiplePropertySourcesWithSamePropertiesWithWeight" classname="com.ctrip.framework.apollo.spring.JavaConfigPlaceholderTest" time="0.022"/>
+  <testcase name="testPropertySourceWithNoNamespace" classname="com.ctrip.framework.apollo.spring.JavaConfigPlaceholderTest" time="0.011"/>
+  <testcase name="testApolloConfigChangeListenerWithWrongParamType" classname="com.ctrip.framework.apollo.spring.XMLConfigAnnotationTest" time="0.019"/>
+  <testcase name="testApolloConfigWithWrongFieldType" classname="com.ctrip.framework.apollo.spring.XMLConfigAnnotationTest" time="0.024"/>
+  <testcase name="testApolloConfigChangeListenerWithWrongParamCount" classname="com.ctrip.framework.apollo.spring.XMLConfigAnnotationTest" time="0.025"/>
+  <testcase name="testApolloConfigChangeListener" classname="com.ctrip.framework.apollo.spring.XMLConfigAnnotationTest" time="0.021"/>
+  <testcase name="testApolloConfig" classname="com.ctrip.framework.apollo.spring.XMLConfigAnnotationTest" time="0.012"/>
+  <testcase name="testApolloConfigChangeListenerWithWrongParamType" classname="com.ctrip.framework.apollo.spring.JavaConfigAnnotationTest" time="0.015"/>
+  <testcase name="testApolloConfigWithWrongFieldType" classname="com.ctrip.framework.apollo.spring.JavaConfigAnnotationTest" time="0.018"/>
+  <testcase name="testApolloConfigChangeListenerWithWrongParamCount" classname="com.ctrip.framework.apollo.spring.JavaConfigAnnotationTest" time="0.021"/>
+  <testcase name="testApolloConfigChangeListener" classname="com.ctrip.framework.apollo.spring.JavaConfigAnnotationTest" time="0.026"/>
+  <testcase name="testApolloConfig" classname="com.ctrip.framework.apollo.spring.JavaConfigAnnotationTest" time="0.019"/>
+  <testcase name="testCustomizeRefreshInterval" classname="com.ctrip.framework.apollo.util.ConfigUtilTest" time="0"/>
+  <testcase name="testCustomizeInvalidReadTimeout" classname="com.ctrip.framework.apollo.util.ConfigUtilTest" time="0"/>
+  <testcase name="testCustomizeInvalidLongPollQPS" classname="com.ctrip.framework.apollo.util.ConfigUtilTest" time="0.001"/>
+  <testcase name="testCustomizeInvalidLongPollingInitialDelayInMills" classname="com.ctrip.framework.apollo.util.ConfigUtilTest" time="0"/>
+  <testcase name="testCustomizeLongPollingInitialDelayInMills" classname="com.ctrip.framework.apollo.util.ConfigUtilTest" time="0"/>
+  <testcase name="testCustomizeInvalidConnectTimeout" classname="com.ctrip.framework.apollo.util.ConfigUtilTest" time="0"/>
+  <testcase name="testApolloCluster" classname="com.ctrip.framework.apollo.util.ConfigUtilTest" time="0"/>
+  <testcase name="testCustomizeMaxConfigCacheSize" classname="com.ctrip.framework.apollo.util.ConfigUtilTest" time="0"/>
+  <testcase name="testCustomizeInvalidLoadConfigQPS" classname="com.ctrip.framework.apollo.util.ConfigUtilTest" time="0.001"/>
+  <testcase name="testCustomizeLoadConfigQPS" classname="com.ctrip.framework.apollo.util.ConfigUtilTest" time="0"/>
+  <testcase name="testCustomizeConnectTimeout" classname="com.ctrip.framework.apollo.util.ConfigUtilTest" time="0"/>
+  <testcase name="testCustomizeReadTimeout" classname="com.ctrip.framework.apollo.util.ConfigUtilTest" time="0"/>
+  <testcase name="testCustomizeLongPollQPS" classname="com.ctrip.framework.apollo.util.ConfigUtilTest" time="0"/>
+  <testcase name="testCustomizeInvalidRefreshInterval" classname="com.ctrip.framework.apollo.util.ConfigUtilTest" time="0"/>
+  <testcase name="testCustomizeInvalidMaxConfigCacheSize" classname="com.ctrip.framework.apollo.util.ConfigUtilTest" time="0"/>
+</testsuite>
