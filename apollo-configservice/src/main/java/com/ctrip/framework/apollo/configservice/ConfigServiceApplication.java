@@ -27,7 +27,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @EnableEurekaServer
 @EnableAspectJAutoProxy
-@EnableAutoConfiguration// 测试45 (exclude = EurekaClientConfigBean.class) (exclude = { DataSourceAutoConfiguration.class, HibernateJpaAutoConfiguration.class })
+@EnableAutoConfiguration// (exclude = EurekaClientConfigBean.class) (exclude = { DataSourceAutoConfiguration.class, HibernateJpaAutoConfiguration.class })
 @Configuration
 @EnableTransactionManagement
 @PropertySource(value = {"classpath:configservice.properties"})
